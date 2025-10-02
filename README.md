@@ -53,9 +53,9 @@ __Убедительная просьба не мержить без апрув�
 - Нинуа Сергей - [sergeyn](https://github.com/sergeyn)
 - Лопатина Настя - [Anastasiyalopatina](https://github.com/Anastasiyalopatina)
 - Кригер Ксюша - [kskriger](https://github.com/kskriger)
-- Кривошапко Маша - [miramiramira](https://github.com/miramiramira)
+- Кривошапко Маша - [Maria2NK](https://github.com/Maria2NK)
 - Якимова Юля - [SuperJuno123](https://github.com/SuperJuno123)
-- Пешков Максим - [peshkovmax](https://github.com/peshkovmax)
+- Пешков Максим - [myupeshkov](https://github.com/myupeshkov)
 - Мельник Руслан - [rmusbuss](https://github.com/rmusbuss)
 - Финкельберг Яша - [yashafinkelberg](https://github.com/yashafinkelberg)
 
