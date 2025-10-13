@@ -50,7 +50,7 @@ __Убедительная просьба не мержить без апрув�
 ![Add people](images/add-people.png)
 
 - Куприянов Дима - [kupro](https://github.com/kupro)
-- Нинуа Сергей - [sergeyn](https://github.com/sergeyn)
+- Нинуа Сергей - [ffix](https://github.com/ffix)
 - Лопатина Настя - [Anastasiyalopatina](https://github.com/Anastasiyalopatina)
 - Кригер Ксюша - [kskriger](https://github.com/kskriger)
 - Кривошапко Маша - [Maria2NK](https://github.com/Maria2NK)
