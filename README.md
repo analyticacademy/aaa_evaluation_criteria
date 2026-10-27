@@ -53,11 +53,12 @@ __Убедительная просьба не мержить без апрув�
 - Нинуа Сергей - [ffix](https://github.com/ffix)
 - Лопатина Настя - [Anastasiyalopatina](https://github.com/Anastasiyalopatina)
 - Кригер Ксюша - [kskriger](https://github.com/kskriger)
-- Кривошапко Маша - [Maria2NK](https://github.com/Maria2NK)
-- Якимова Юля - [SuperJuno123](https://github.com/SuperJuno123)
-- Пешков Максим - [myupeshkov](https://github.com/myupeshkov)
 - Мельник Руслан - [rmusbuss](https://github.com/rmusbuss)
-- Финкельберг Яша - [yashafinkelberg](https://github.com/yashafinkelberg)
+- Барсук Полина - [barsukpolina](https://github.com/barsukpolina)
+- Есенеева Диана - [DianaEseneeva](https://github.com/DianaEseneeva)
+- Минина Полина - [kerajack](https://github.com/kerajack)
+- Балас Таня - [tatyanabalas](https://github.com/tatyanabalas)
+- Горбунова Таня - [tatyannnnaaa](https://github.com/tatyannnnaaa)
 
 # Как получить больше баллов?
 
